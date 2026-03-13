@@ -8,6 +8,9 @@ body{
 h3{
   color: green;
 }
-.blue{
+.texto-azul{
   color: blue;
-}  
+}
+.texto-rojo{
+  color:red;
+}
